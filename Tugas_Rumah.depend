@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1687533925 source:d:\belajarcpp\circular link list\tugas_rumah\circularsource.cpp
+	"CircularHeader.h"
+	<iostream>
+
+1687529660 d:\belajarcpp\circular link list\tugas_rumah\circularheader.h
+	<string>
+	<iostream>
+	<iomanip>
+
+1687533268 source:d:\belajarcpp\circular link list\tugas_rumah\main.cpp
+	"CircularHeader.h"
+	<iostream>
+
